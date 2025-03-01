@@ -4198,3 +4198,29 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [01Mar2025 22:41:23.396] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-282, y=35, z=-587}
 [01Mar2025 22:41:25.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ninset6 has made the advancement [Ambush]
 [01Mar2025 22:43:42.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ninset6 has made the advancement [Knowledge raises the soul]
+[01Mar2025 22:47:03.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ninset6 fell from a high place
+[01Mar2025 22:47:03.377] [Server thread/INFO] [tombstone/]: The player Ninset6 has successfully been saved
+[01Mar2025 22:47:25.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lukitas024 was shot by Huntsman
+[01Mar2025 22:47:25.022] [Server thread/INFO] [tombstone/]: The player Lukitas024 has successfully been saved
+[01Mar2025 22:47:47.410] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ninset6 was kicked for floating too long!
+[01Mar2025 22:47:47.457] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ninset6 lost connection: Flying is not enabled on this server
+[01Mar2025 22:47:47.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ninset6 left the game
+[01Mar2025 22:48:03.376] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ninset6[/10.244.199.158:61928] logged in with entity id 21105 at (101.70984131205785, 98.28549238931866, 103.21392529946822)
+[01Mar2025 22:48:03.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ninset6 joined the game
+[01Mar2025 22:48:32.067] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lukitas024 was kicked for floating too long!
+[01Mar2025 22:48:32.111] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lukitas024 lost connection: Flying is not enabled on this server
+[01Mar2025 22:48:32.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lukitas024 left the game
+[01Mar2025 22:49:36.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ninset6 has made the advancement [Not Today, Thank You]
+[01Mar2025 22:49:59.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[01Mar2025 22:49:59.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: restart<--[HERE]
+[01Mar2025 22:50:16.969] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lukitas024[/10.244.154.143:50745] logged in with entity id 21928 at (-116.21569428219789, 51.14998983419154, 236.14312546767337)
+[01Mar2025 22:50:16.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lukitas024 joined the game
+[01Mar2025 22:50:25.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lukitas024 has reached the goal [Discreet Search]
+[01Mar2025 22:53:38.686] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: gabiino[/10.244.201.19:57255] logged in with entity id 23677 at (82.30000001192093, 64.0, -755.8726063892332)
+[01Mar2025 22:53:38.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gabiino joined the game
+[01Mar2025 22:53:53.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gabiino was slain by The Moonflower
+[01Mar2025 22:53:53.283] [Server thread/INFO] [tombstone/]: The player gabiino has successfully been saved
+[01Mar2025 22:54:13.970] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: gabiino lost connection: Disconnected
+[01Mar2025 22:54:13.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gabiino left the game
+[01Mar2025 22:54:43.672] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: gabiino[/10.244.201.19:57372] logged in with entity id 24311 at (97.12718069773706, 63.231523797587016, -740.6834543667305)
+[01Mar2025 22:54:43.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gabiino joined the game
