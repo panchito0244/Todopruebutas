@@ -23,6 +23,18 @@
     },
     "done": false
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_boots": "2025-03-01 22:16:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-03-01 22:13:57 +0000"
+    },
+    "done": true
+  },
   "explorerscompass:explorers_compass_cracked_stone_bricks": {
     "criteria": {
       "has_recipe": "2025-03-01 21:58:07 +0000"
@@ -83,6 +95,12 @@
     },
     "done": true
   },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-03-01 22:13:51 +0000"
+    },
+    "done": true
+  },
   "naturescompass:natures_compass": {
     "criteria": {
       "has_recipe": "2025-03-01 21:58:07 +0000"
@@ -127,6 +145,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:birch_forest": "2025-03-01 22:18:53 +0000",
       "minecraft:dark_forest": "2025-03-01 21:58:08 +0000",
       "minecraft:dripstone_caves": "2025-03-01 22:09:46 +0000",
       "minecraft:meadow": "2025-03-01 21:58:35 +0000"
@@ -159,7 +178,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "apple": "2025-03-01 22:08:03 +0000"
+      "apple": "2025-03-01 22:08:03 +0000",
+      "golden_apple": "2025-03-01 22:17:32 +0000"
     },
     "done": false
   },

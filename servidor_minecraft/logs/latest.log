@@ -4116,3 +4116,27 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [01Mar2025 22:13:28.627] [Server thread/INFO] [tombstone/]: The player Ninset6 has successfully been saved
 [01Mar2025 22:13:51.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lukitas024 has made the advancement [Acquire Hardware]
 [01Mar2025 22:13:57.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lukitas024 has made the advancement [Isn't It Iron Pick]
+[01Mar2025 22:15:17.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ninset6 fell from a high place
+[01Mar2025 22:15:17.836] [Server thread/INFO] [tombstone/]: The player Ninset6 has successfully been saved
+[01Mar2025 22:16:01.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lukitas024 has made the advancement [Suit Up]
+[01Mar2025 22:17:02.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gabiino hit the ground too hard
+[01Mar2025 22:17:02.134] [Server thread/INFO] [tombstone/]: The player gabiino has successfully been saved
+[01Mar2025 22:19:43.349] [pool-6-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert]] from pos BlockPos{x=133, y=95, z=357}
+[01Mar2025 22:19:46.558] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3168ms or 63 ticks behind
+[01Mar2025 22:20:43.307] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: gabiino lost connection: Disconnected
+[01Mar2025 22:20:43.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gabiino left the game
+[01Mar2025 22:20:43.398] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[01Mar2025 22:21:34.798] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: gabiino[/10.244.201.19:54064] logged in with entity id 9957 at (123.18307153473013, 78.0, -564.0490929677633)
+[01Mar2025 22:21:34.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gabiino joined the game
+[01Mar2025 22:22:08.976] [pool-6-thread-2/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna]] from pos BlockPos{x=69, y=70, z=-795}
+[01Mar2025 22:22:11.183] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2143ms or 42 ticks behind
+[01Mar2025 22:22:11.267] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: gabiino moved too quickly! 4.517703222897126,-0.8232407249357578,-9.171236565550657
+[01Mar2025 22:22:16.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ninset6 has made the advancement [Isn't It Iron Pick]
+[01Mar2025 22:22:23.447] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-106, y=-32, z=-216}
+[01Mar2025 22:22:27.634] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-99, y=-32, z=-208}
+[01Mar2025 22:22:58.456] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[01Mar2025 22:22:58.456] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[01Mar2025 22:23:02.334] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[01Mar2025 22:23:05.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ninset6 has made the advancement [Suit Up]
+[01Mar2025 22:24:17.999] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: gabiino lost connection: Disconnected
+[01Mar2025 22:24:17.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gabiino left the game
