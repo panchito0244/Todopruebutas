@@ -4182,3 +4182,19 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [01Mar2025 22:32:40.368] [Server thread/INFO] [tombstone/]: The player Ninset6 has successfully been saved
 [01Mar2025 22:34:14.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lukitas024 withered away whilst fighting Diamond Termite
 [01Mar2025 22:34:14.624] [Server thread/INFO] [tombstone/]: The player Lukitas024 has successfully been saved
+[01Mar2025 22:35:09.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lukitas024 has made the advancement [Sweet Dreams]
+[01Mar2025 22:35:46.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lukitas024 has made the advancement [Monster Hunter]
+[01Mar2025 22:36:18.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lukitas024 burned to death
+[01Mar2025 22:36:18.382] [Server thread/INFO] [tombstone/]: The player Lukitas024 has successfully been saved
+[01Mar2025 22:38:18.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lukitas024 has made the advancement [Magic Writing]
+[01Mar2025 22:38:19.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lukitas024 has made the advancement [Amateur Archaeologist]
+[01Mar2025 22:40:12.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lukitas024 has made the advancement [Ashes 'n Bones]
+[01Mar2025 22:40:27.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ninset6 was slain by Vindicator
+[01Mar2025 22:40:27.871] [Server thread/INFO] [tombstone/]: The player Ninset6 has successfully been saved
+[01Mar2025 22:40:55.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ninset6 has reached the goal [Chain Death]
+[01Mar2025 22:40:55.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ninset6 was slain by Vindicator
+[01Mar2025 22:40:55.837] [Server thread/INFO] [tombstone/]: The player Ninset6 has successfully been saved
+[01Mar2025 22:41:23.396] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-275, y=27, z=-591}
+[01Mar2025 22:41:23.396] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-282, y=35, z=-587}
+[01Mar2025 22:41:25.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ninset6 has made the advancement [Ambush]
+[01Mar2025 22:43:42.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ninset6 has made the advancement [Knowledge raises the soul]
