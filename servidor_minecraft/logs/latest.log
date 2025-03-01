@@ -4224,3 +4224,39 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [01Mar2025 22:54:13.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gabiino left the game
 [01Mar2025 22:54:43.672] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: gabiino[/10.244.201.19:57372] logged in with entity id 24311 at (97.12718069773706, 63.231523797587016, -740.6834543667305)
 [01Mar2025 22:54:43.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gabiino joined the game
+[01Mar2025 22:55:20.666] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: gabiino was kicked for floating too long!
+[01Mar2025 22:55:20.727] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: gabiino lost connection: Flying is not enabled on this server
+[01Mar2025 22:55:20.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gabiino left the game
+[01Mar2025 22:55:48.031] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: gabiino[/10.244.201.19:57490] logged in with entity id 24631 at (-14.7509434752528, 106.28549238931866, -73.98459411507997)
+[01Mar2025 22:55:48.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gabiino joined the game
+[01Mar2025 22:58:05.338] [pool-6-thread-3/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna]] from pos BlockPos{x=-197, y=74, z=-773}
+[01Mar2025 22:58:05.587] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-197, y=74, z=-773} but found not block entity block Block{minecraft:spruce_fence}[east=false,north=true,south=false,waterlogged=false,west=false] at location
+[01Mar2025 22:58:05.587] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=false,north=true,south=false,waterlogged=false,west=false] but failed at location BlockPos{x=-197, y=74, z=-773}
+[01Mar2025 22:58:55.534] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: gabiino lost connection: Disconnected
+[01Mar2025 22:58:55.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gabiino left the game
+[01Mar2025 22:59:22.533] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: gabiino[/10.244.201.19:57848] logged in with entity id 26884 at (97.28848674425717, 65.0, -734.5155646087619)
+[01Mar2025 22:59:22.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gabiino joined the game
+[01Mar2025 23:00:05.835] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: gabiino lost connection: Disconnected
+[01Mar2025 23:00:05.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gabiino left the game
+[01Mar2025 23:00:42.819] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: gabiino[/10.244.201.19:58001] logged in with entity id 27450 at (80.56041556532223, 64.0, -753.2125988348419)
+[01Mar2025 23:00:42.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gabiino joined the game
+[01Mar2025 23:00:55.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ninset6 was shot by Skeleton
+[01Mar2025 23:00:55.733] [Server thread/INFO] [tombstone/]: The player Ninset6 has successfully been saved
+[01Mar2025 23:01:14.927] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: gabiino lost connection: Disconnected
+[01Mar2025 23:01:14.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gabiino left the game
+[01Mar2025 23:01:23.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lukitas024 was slain by Dark Oak Forest Zombie
+[01Mar2025 23:01:23.917] [Server thread/INFO] [tombstone/]: The player Lukitas024 has successfully been saved
+[01Mar2025 23:01:26.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ninset6 was slain by Husk
+[01Mar2025 23:01:26.571] [Server thread/INFO] [tombstone/]: The player Ninset6 has successfully been saved
+[01Mar2025 23:02:24.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lukitas024 has reached the goal [Chain Death]
+[01Mar2025 23:02:24.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lukitas024 was slain by Skeleton
+[01Mar2025 23:02:24.376] [Server thread/INFO] [tombstone/]: The player Lukitas024 has successfully been saved
+[01Mar2025 23:03:58.927] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: gabiino[/10.244.201.19:58336] logged in with entity id 28670 at (80.22753571263532, 64.76636799395752, -752.716998419794)
+[01Mar2025 23:03:58.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gabiino joined the game
+[01Mar2025 23:04:42.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lukitas024 was slain by Skeleton
+[01Mar2025 23:04:42.281] [Server thread/INFO] [tombstone/]: The player Lukitas024 has successfully been saved
+[01Mar2025 23:04:44.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ninset6 was slain by Corpse Fly
+[01Mar2025 23:04:44.435] [Server thread/INFO] [tombstone/]: The player Ninset6 has successfully been saved
+[01Mar2025 23:04:52.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gabiino has made the advancement [This Must be a Sign!]
+[01Mar2025 23:05:04.620] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: gabiino lost connection: Disconnected
+[01Mar2025 23:05:04.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gabiino left the game
