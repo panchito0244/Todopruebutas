@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "mutantmonsters:root": {
+    "criteria": {
+      "killed_something": "2025-03-01 22:04:20 +0000"
+    },
+    "done": true
+  },
   "takesapillage:root": {
     "criteria": {
       "always": "2025-03-01 21:58:07 +0000"
@@ -38,6 +44,18 @@
   "undead_revamp2:theundeadchallenges": {
     "criteria": {
       "theundeadchallenges": "2025-03-01 21:58:07 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_grave_key": {
+    "criteria": {
+      "has_ingredient": "2025-03-01 22:06:15 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_grave": {
+    "criteria": {
+      "coded_trigger": "2025-03-01 22:06:13 +0000"
     },
     "done": true
   },
@@ -83,6 +101,12 @@
     },
     "done": false
   },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-03-01 22:04:20 +0000"
+    },
+    "done": true
+  },
   "mowziesmobs:root": {
     "criteria": {
       "custom_test_name": "2025-03-01 21:58:07 +0000"
@@ -95,9 +119,16 @@
     },
     "done": true
   },
+  "tombstone:recipes/from_grave_dust": {
+    "criteria": {
+      "has_ingredient": "2025-03-01 22:08:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:dark_forest": "2025-03-01 21:58:08 +0000",
+      "minecraft:dripstone_caves": "2025-03-01 22:09:46 +0000",
       "minecraft:meadow": "2025-03-01 21:58:35 +0000"
     },
     "done": false
@@ -120,11 +151,29 @@
     },
     "done": true
   },
+  "tombstone:adventure/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2025-03-01 22:06:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "apple": "2025-03-01 22:08:03 +0000"
+    },
+    "done": false
+  },
   "incendium:technical/using/shield": {
     "criteria": {
       "log_spam_fixer": "2025-03-01 21:58:08 +0000"
     },
     "done": false
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-03-01 22:08:03 +0000"
+    },
+    "done": true
   },
   "betterdeserttemples:root": {
     "criteria": {

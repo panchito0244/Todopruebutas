@@ -4088,3 +4088,31 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [01Mar2025 22:02:41.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gabiino has completed the challenge [The Undead]
 [01Mar2025 22:03:21.064] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
 [01Mar2025 22:03:21.064] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[01Mar2025 22:05:09.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ninset6 has made the advancement [Acquire Hardware]
+[01Mar2025 22:05:17.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gabiino has made the advancement [Stone Age]
+[01Mar2025 22:05:46.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gabiino has made the advancement [Getting an Upgrade]
+[01Mar2025 22:06:13.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lukitas024 was slain by Slugger
+[01Mar2025 22:06:13.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lukitas024 has made the advancement [Your First Grave]
+[01Mar2025 22:06:13.841] [Server thread/INFO] [tombstone/]: The player Lukitas024 has successfully been saved
+[01Mar2025 22:06:36.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lukitas024 has reached the goal [Here They Come]
+[01Mar2025 22:07:31.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ninset6 withered away
+[01Mar2025 22:07:31.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ninset6 has made the advancement [Your First Grave]
+[01Mar2025 22:07:31.521] [Server thread/INFO] [tombstone/]: The player Ninset6 has successfully been saved
+[01Mar2025 22:08:19.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gabiino has made the advancement [Acquire Hardware]
+[01Mar2025 22:08:20.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gabiino has made the advancement [Ice Bucket Challenge]
+[01Mar2025 22:08:57.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ninset6 has made the advancement [Monster Hunter]
+[01Mar2025 22:10:30.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ninset6 was slain by Husk
+[01Mar2025 22:10:30.720] [Server thread/INFO] [tombstone/]: The player Ninset6 has successfully been saved
+[01Mar2025 22:10:48.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ninset6 has reached the goal [Here They Come]
+[01Mar2025 22:12:22.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ninset6 was slain by Skeleton
+[01Mar2025 22:12:22.171] [Server thread/INFO] [tombstone/]: The player Ninset6 has successfully been saved
+[01Mar2025 22:12:23.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gabiino was slain by Skeleton
+[01Mar2025 22:12:23.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gabiino has made the advancement [Your First Grave]
+[01Mar2025 22:12:23.976] [Server thread/INFO] [tombstone/]: The player gabiino has successfully been saved
+[01Mar2025 22:13:18.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gabiino has reached the goal [Here They Come]
+[01Mar2025 22:13:27.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gabiino was slain by Husk
+[01Mar2025 22:13:27.071] [Server thread/INFO] [tombstone/]: The player gabiino has successfully been saved
+[01Mar2025 22:13:28.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ninset6 was slain by Skeleton
+[01Mar2025 22:13:28.627] [Server thread/INFO] [tombstone/]: The player Ninset6 has successfully been saved
+[01Mar2025 22:13:51.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lukitas024 has made the advancement [Acquire Hardware]
+[01Mar2025 22:13:57.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lukitas024 has made the advancement [Isn't It Iron Pick]
