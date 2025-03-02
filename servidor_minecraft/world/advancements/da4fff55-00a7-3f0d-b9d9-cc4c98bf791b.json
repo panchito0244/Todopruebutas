@@ -128,12 +128,17 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:birch_forest": "2025-03-01 22:18:53 +0000",
+      "minecraft:beach": "2025-03-02 02:55:50 +0000",
       "minecraft:dark_forest": "2025-03-01 21:58:08 +0000",
+      "minecraft:river": "2025-03-01 23:47:40 +0000",
       "minecraft:stony_shore": "2025-03-01 22:39:54 +0000",
       "minecraft:dripstone_caves": "2025-03-01 22:09:46 +0000",
       "minecraft:forest": "2025-03-01 22:30:35 +0000",
+      "minecraft:ocean": "2025-03-02 03:33:25 +0000",
+      "minecraft:old_growth_birch_forest": "2025-03-01 23:47:46 +0000",
       "minecraft:deep_dark": "2025-03-01 22:27:47 +0000",
-      "minecraft:meadow": "2025-03-01 21:58:35 +0000"
+      "minecraft:meadow": "2025-03-01 21:58:35 +0000",
+      "minecraft:plains": "2025-03-02 02:57:11 +0000"
     },
     "done": false
   },
@@ -204,6 +209,7 @@
       "golden_apple": "2025-03-01 22:17:32 +0000",
       "bread": "2025-03-01 22:38:24 +0000",
       "glow_berries": "2025-03-01 22:36:59 +0000",
+      "golden_carrot": "2025-03-01 23:38:46 +0000",
       "carrot": "2025-03-01 22:57:14 +0000"
     },
     "done": false
@@ -283,8 +289,14 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-03-01 22:39:53 +0000",
+      "minecraft:hoglin": "2025-03-01 23:23:55 +0000",
+      "minecraft:vindicator": "2025-03-02 00:41:14 +0000",
       "minecraft:spider": "2025-03-01 22:39:26 +0000",
-      "minecraft:zombie": "2025-03-01 22:35:46 +0000"
+      "minecraft:phantom": "2025-03-01 23:22:09 +0000",
+      "minecraft:wither_skeleton": "2025-03-01 23:22:20 +0000",
+      "minecraft:husk": "2025-03-01 23:28:31 +0000",
+      "minecraft:zombie": "2025-03-01 22:35:46 +0000",
+      "minecraft:zombie_villager": "2025-03-02 00:58:30 +0000"
     },
     "done": false
   },
@@ -312,15 +324,213 @@
     },
     "done": true
   },
+  "tombstone:adventure/discreet_search": {
+    "criteria": {
+      "coded_trigger": "2025-03-01 22:50:25 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_bathhouse": {
     "criteria": {
       "location0": "2025-03-01 22:56:12 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/discreet_search": {
+  "tombstone:adventure/chain_death": {
     "criteria": {
-      "coded_trigger": "2025-03-01 22:50:25 +0000"
+      "coded_trigger": "2025-03-01 23:02:24 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_heavenly_rider": {
+    "criteria": {
+      "location0": "2025-03-01 23:21:50 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-03-01 23:22:09 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/kill_all_sculk_mobs": {
+    "criteria": {
+      "phantom": "2025-03-01 23:22:09 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-03-01 23:25:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2025-03-01 23:30:52 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_troll": {
+    "criteria": {
+      "killed_fire_dragon": "2025-03-01 23:36:55 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:daddy": {
+    "criteria": {
+      "daddy": "2025-03-01 23:40:15 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_greenwood_pub": {
+    "criteria": {
+      "location0": "2025-03-01 23:50:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-03-02 00:03:18 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2025-03-02 00:51:32 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2025-03-02 00:51:40 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:zombie_dungeon": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2025-03-02 01:49:13 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2025-03-02 01:49:13 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-02 03:52:42 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-02 03:52:42 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-02 03:52:42 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-02 03:52:42 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-02 03:52:42 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-02 03:52:42 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-02 03:52:42 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-02 03:52:42 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-02 03:52:42 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-02 03:52:42 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-02 03:52:42 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-02 03:52:42 +0000"
+    },
+    "done": false
+  },
+  "supplementaries:adventure/way_sign": {
+    "criteria": {
+      "bastion": "2025-03-02 02:13:33 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_lighthouse": {
+    "criteria": {
+      "location0": "2025-03-02 02:56:05 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/bestiary": {
+    "criteria": {
+      "bestiary": "2025-03-02 03:40:14 +0000"
+    },
+    "done": true
+  },
+  "enemyexpansion:hunted": {
+    "criteria": {
+      "hunted_0": "2025-03-02 02:46:51 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_ghost": {
+    "criteria": {
+      "killed_fire_dragon": "2025-03-02 03:40:52 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:devillhunter": {
+    "criteria": {
+      "devillhunter": "2025-03-02 03:09:29 +0000"
+    },
+    "done": true
+  },
+  "enemyexpansion:vampire_slayer": {
+    "criteria": {
+      "vampire_slayer_0": "2025-03-02 02:04:10 +0000"
     },
     "done": true
   },
